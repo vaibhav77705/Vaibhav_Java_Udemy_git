@@ -9,6 +9,7 @@ public class Hello {
                 int myLastOne = 1000 - myTotal;
                 System.out.println("myTotal is: "+ myTotal );
             System.out.println("myLastOne is :"+myLastOne);
+                System.out.println("test for git commit by vaibhav Saxena");
 
         }
 }
